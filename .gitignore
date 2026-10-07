@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Data & Models
+data/
+*.pth
+*.pt
+*.npy
+
+# IDE & OS
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

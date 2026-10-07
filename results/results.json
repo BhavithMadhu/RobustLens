@@ -1,0 +1,147 @@
+{"timestamp": "2026-10-07T19:29:12.094586", "model_name": "ERM", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.142, "hard_acc": 0.13}}
+{"timestamp": "2026-10-07T19:29:15.348274", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:29:16.740229", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.116, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:29:51.920985", "model_name": "ERM", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.142, "hard_acc": 0.13}}
+{"timestamp": "2026-10-07T19:29:55.182854", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:29:56.552503", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.116, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:29:58.054133", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.63, "hard_acc": 0.388}}
+{"timestamp": "2026-10-07T19:29:59.227862", "model_name": "ERM", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.114, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:30:02.502145", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.128, "hard_acc": 0.128}}
+{"timestamp": "2026-10-07T19:30:03.865043", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.146, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:30:05.375680", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.61, "hard_acc": 0.372}}
+{"timestamp": "2026-10-07T19:30:06.495673", "model_name": "ERM", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.126, "hard_acc": 0.14}}
+{"timestamp": "2026-10-07T19:30:09.730514", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.106, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:30:11.093992", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.11, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:30:12.630824", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.606, "hard_acc": 0.374}}
+{"timestamp": "2026-10-07T19:30:13.857798", "model_name": "ERM", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.156, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:30:17.118379", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:30:18.532832", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.116, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:30:20.029231", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.696, "hard_acc": 0.188}}
+{"timestamp": "2026-10-07T19:30:21.122062", "model_name": "ERM", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.11, "hard_acc": 0.114}}
+{"timestamp": "2026-10-07T19:30:24.368489", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.138, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:30:25.756415", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.156, "hard_acc": 0.122}}
+{"timestamp": "2026-10-07T19:30:27.276786", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.704, "hard_acc": 0.196}}
+{"timestamp": "2026-10-07T19:30:28.373796", "model_name": "ERM", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.116, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:30:31.668562", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.112, "hard_acc": 0.104}}
+{"timestamp": "2026-10-07T19:30:33.041402", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:30:34.566428", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.682, "hard_acc": 0.158}}
+{"timestamp": "2026-10-07T19:30:35.810890", "model_name": "ERM", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.164, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:30:39.056858", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:30:40.435820", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.122, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:30:41.931629", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.784, "hard_acc": 0.122}}
+{"timestamp": "2026-10-07T19:30:43.070142", "model_name": "ERM", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.11, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:30:46.338516", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.146, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:30:47.730839", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.162, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:30:49.226444", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.772, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:30:50.338577", "model_name": "ERM", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.114, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:30:53.618893", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.118, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:30:55.007349", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.11, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:30:56.594393", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.792, "hard_acc": 0.088}}
+{"timestamp": "2026-10-07T19:30:57.820728", "model_name": "ERM", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.166, "hard_acc": 0.128}}
+{"timestamp": "2026-10-07T19:31:01.308120", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.108, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:31:02.676691", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.132, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:04.166517", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.896, "hard_acc": 0.12}}
+{"timestamp": "2026-10-07T19:31:05.259076", "model_name": "ERM", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.116, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:31:08.494202", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.138, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:31:09.855235", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.172, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:31:11.347999", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.888, "hard_acc": 0.12}}
+{"timestamp": "2026-10-07T19:31:12.441701", "model_name": "ERM", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.122, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:31:15.666824", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.114, "hard_acc": 0.102}}
+{"timestamp": "2026-10-07T19:31:17.040077", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:18.527192", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.896, "hard_acc": 0.072}}
+{"timestamp": "2026-10-07T19:31:19.758665", "model_name": "ERM", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.178, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:31:22.992502", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:31:24.370284", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.128, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:25.929678", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.918, "hard_acc": 0.096}}
+{"timestamp": "2026-10-07T19:31:27.023293", "model_name": "ERM", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.114, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:30.264623", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.148, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:31:31.646851", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.188, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:31:33.146815", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.926, "hard_acc": 0.09}}
+{"timestamp": "2026-10-07T19:31:34.237879", "model_name": "ERM", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.118, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:31:37.505371", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.118, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:31:38.888949", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:40.405041", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.91, "hard_acc": 0.088}}
+{"timestamp": "2026-10-07T19:31:41.684505", "model_name": "ERM", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.172, "hard_acc": 0.114}}
+{"timestamp": "2026-10-07T19:31:44.944165", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.108, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:31:46.322181", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.132, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:31:47.872664", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.982, "hard_acc": 0.062}}
+{"timestamp": "2026-10-07T19:31:48.979152", "model_name": "ERM", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.116, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:31:52.299714", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.154, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:31:53.678427", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.18, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:31:55.171158", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.976, "hard_acc": 0.064}}
+{"timestamp": "2026-10-07T19:31:56.264370", "model_name": "ERM", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.118, "hard_acc": 0.126}}
+{"timestamp": "2026-10-07T19:31:59.492939", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.116, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:32:00.864104", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:32:02.350108", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.982, "hard_acc": 0.044}}
+{"timestamp": "2026-10-07T19:52:10.811219", "model_name": "ERM", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.142, "hard_acc": 0.13}}
+{"timestamp": "2026-10-07T19:52:14.082197", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:52:15.476607", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.116, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:52:16.975884", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.5, "metrics": {"std_acc": 0.63, "hard_acc": 0.388}}
+{"timestamp": "2026-10-07T19:52:18.133146", "model_name": "ERM", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.114, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:52:21.416934", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.128, "hard_acc": 0.128}}
+{"timestamp": "2026-10-07T19:52:22.828865", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.146, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:52:24.349385", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.5, "metrics": {"std_acc": 0.61, "hard_acc": 0.372}}
+{"timestamp": "2026-10-07T19:52:25.483852", "model_name": "ERM", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.126, "hard_acc": 0.14}}
+{"timestamp": "2026-10-07T19:52:28.723343", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.106, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:52:30.125820", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.11, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:52:31.653805", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.5, "metrics": {"std_acc": 0.606, "hard_acc": 0.374}}
+{"timestamp": "2026-10-07T19:52:32.892884", "model_name": "ERM", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.156, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:52:36.074391", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:52:37.478185", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.116, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:52:38.994813", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.7, "metrics": {"std_acc": 0.696, "hard_acc": 0.188}}
+{"timestamp": "2026-10-07T19:52:40.121806", "model_name": "ERM", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.11, "hard_acc": 0.114}}
+{"timestamp": "2026-10-07T19:52:43.368476", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.138, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:52:44.874220", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.156, "hard_acc": 0.122}}
+{"timestamp": "2026-10-07T19:52:46.377816", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.7, "metrics": {"std_acc": 0.704, "hard_acc": 0.196}}
+{"timestamp": "2026-10-07T19:52:47.460182", "model_name": "ERM", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.116, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:52:50.902454", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.112, "hard_acc": 0.104}}
+{"timestamp": "2026-10-07T19:52:52.455498", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:52:54.234842", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.7, "metrics": {"std_acc": 0.682, "hard_acc": 0.158}}
+{"timestamp": "2026-10-07T19:52:55.498962", "model_name": "ERM", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.164, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:52:58.727517", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:53:00.074032", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.122, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:53:01.570421", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.8, "metrics": {"std_acc": 0.784, "hard_acc": 0.122}}
+{"timestamp": "2026-10-07T19:53:02.786983", "model_name": "ERM", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.11, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:53:05.971832", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.146, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:53:07.323982", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.162, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:53:08.862212", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.8, "metrics": {"std_acc": 0.772, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:53:10.060073", "model_name": "ERM", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.114, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:53:13.358706", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.118, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:53:14.717184", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.11, "hard_acc": 0.112}}
+{"timestamp": "2026-10-07T19:53:16.264400", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.8, "metrics": {"std_acc": 0.792, "hard_acc": 0.088}}
+{"timestamp": "2026-10-07T19:53:17.520625", "model_name": "ERM", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.166, "hard_acc": 0.128}}
+{"timestamp": "2026-10-07T19:53:20.724956", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.108, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:53:22.180836", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.132, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:53:23.869342", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.9, "metrics": {"std_acc": 0.896, "hard_acc": 0.12}}
+{"timestamp": "2026-10-07T19:53:25.004706", "model_name": "ERM", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.116, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:53:28.441618", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.138, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:53:29.826573", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.172, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:53:31.291202", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.9, "metrics": {"std_acc": 0.888, "hard_acc": 0.12}}
+{"timestamp": "2026-10-07T19:53:32.386498", "model_name": "ERM", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.122, "hard_acc": 0.132}}
+{"timestamp": "2026-10-07T19:53:35.568206", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.114, "hard_acc": 0.102}}
+{"timestamp": "2026-10-07T19:53:36.926492", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:53:38.442202", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.9, "metrics": {"std_acc": 0.896, "hard_acc": 0.072}}
+{"timestamp": "2026-10-07T19:53:39.641143", "model_name": "ERM", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.178, "hard_acc": 0.136}}
+{"timestamp": "2026-10-07T19:53:42.947321", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.108, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:53:44.313207", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.128, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:53:45.811074", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.95, "metrics": {"std_acc": 0.918, "hard_acc": 0.096}}
+{"timestamp": "2026-10-07T19:53:46.932705", "model_name": "ERM", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.114, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:53:50.180871", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.148, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:53:51.538316", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.188, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:53:53.226655", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.95, "metrics": {"std_acc": 0.926, "hard_acc": 0.09}}
+{"timestamp": "2026-10-07T19:53:54.305570", "model_name": "ERM", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.118, "hard_acc": 0.124}}
+{"timestamp": "2026-10-07T19:53:57.508289", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.118, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:53:58.899578", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:54:00.368699", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.95, "metrics": {"std_acc": 0.91, "hard_acc": 0.088}}
+{"timestamp": "2026-10-07T19:54:01.595227", "model_name": "ERM", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.172, "hard_acc": 0.114}}
+{"timestamp": "2026-10-07T19:54:04.787168", "model_name": "Gradient Penalty", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.108, "hard_acc": 0.106}}
+{"timestamp": "2026-10-07T19:54:06.155417", "model_name": "Counterfactual", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.132, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:54:07.616462", "model_name": "Group DRO", "seed": 42, "correlation_strength": 0.99, "metrics": {"std_acc": 0.982, "hard_acc": 0.062}}
+{"timestamp": "2026-10-07T19:54:08.715488", "model_name": "ERM", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.116, "hard_acc": 0.116}}
+{"timestamp": "2026-10-07T19:54:11.946938", "model_name": "Gradient Penalty", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.154, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:54:13.353445", "model_name": "Counterfactual", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.18, "hard_acc": 0.118}}
+{"timestamp": "2026-10-07T19:54:14.853866", "model_name": "Group DRO", "seed": 123, "correlation_strength": 0.99, "metrics": {"std_acc": 0.976, "hard_acc": 0.064}}
+{"timestamp": "2026-10-07T19:54:15.931083", "model_name": "ERM", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.118, "hard_acc": 0.126}}
+{"timestamp": "2026-10-07T19:54:19.206289", "model_name": "Gradient Penalty", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.116, "hard_acc": 0.108}}
+{"timestamp": "2026-10-07T19:54:20.643559", "model_name": "Counterfactual", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.11, "hard_acc": 0.11}}
+{"timestamp": "2026-10-07T19:54:22.180133", "model_name": "Group DRO", "seed": 456, "correlation_strength": 0.99, "metrics": {"std_acc": 0.982, "hard_acc": 0.044}}

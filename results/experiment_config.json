@@ -1,0 +1,23 @@
+{
+    "correlations": [
+        0.5,
+        0.7,
+        0.8,
+        0.9,
+        0.95,
+        0.99
+    ],
+    "seeds": [
+        42,
+        123,
+        456
+    ],
+    "methods": [
+        "ERM",
+        "Gradient Penalty",
+        "Counterfactual",
+        "Group DRO"
+    ],
+    "device": "cpu",
+    "timestamp": "2026-10-07T19:32:00"
+}

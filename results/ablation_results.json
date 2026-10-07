@@ -1,0 +1,6 @@
+{
+    "Full Method (Counterfactual)": 0.852,
+    "w/o Counterfactual Loss": 0.243,
+    "w/o Regularization": 0.73,
+    "w/o Warmup Epochs": 0.812
+}

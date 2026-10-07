@@ -1,0 +1,118 @@
+{
+    "biased": [
+        {
+            "epsilon": 0.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.118,
+            "accuracy_degradation": 0.0,
+            "attack_success_rate": 0.0
+        },
+        {
+            "epsilon": 2.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 5.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 7.5,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 10.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 12.75,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 15.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 20.0,
+            "clean_accuracy": 0.118,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.118,
+            "attack_success_rate": 1.0
+        }
+    ],
+    "robust": [
+        {
+            "epsilon": 0.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.11,
+            "accuracy_degradation": 0.0,
+            "attack_success_rate": 0.0
+        },
+        {
+            "epsilon": 2.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 5.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 7.5,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 10.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 12.75,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 15.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        },
+        {
+            "epsilon": 20.0,
+            "clean_accuracy": 0.11,
+            "adversarial_accuracy": 0.0,
+            "accuracy_degradation": 0.11,
+            "attack_success_rate": 1.0
+        }
+    ]
+}

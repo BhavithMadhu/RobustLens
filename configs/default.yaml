@@ -1,0 +1,53 @@
+experiment:
+  name: "robustlens_default"
+  seed: 42
+  device: "auto"  # auto-detect cuda/mps/cpu
+  output_dir: "results"
+  figures_dir: "figures"
+
+data:
+  correlation_strengths: [0.5, 0.7, 0.8, 0.9, 0.95, 0.99]
+  default_correlation: 0.95
+  image_size: 28
+  num_classes: 10
+  batch_size: 128
+  background_mode: "random_gray"
+  noise_std: 0.02
+  num_workers: 0
+
+model:
+  name: "cheater_cnn"
+  batch_norm: false
+  dropout: 0.0
+
+training:
+  epochs: 10
+  learning_rate: 0.001
+  optimizer: "sgd"
+  weight_decay: 0.0
+  warmup_epochs: 2
+
+debiasing:
+  methods: ["erm", "gradient_penalty", "counterfactual", "group_dro"]
+  gradient_penalty:
+    lambda_gp: 0.5
+    warmup_epochs: 5
+    epochs: 20
+  counterfactual:
+    lambda_cf: 0.5
+    warmup_epochs: 2
+    epochs: 10
+  group_dro:
+    step_size: 0.01
+    epochs: 15
+
+evaluation:
+  seeds: [42, 123, 456]
+  ood_conditions: ["unseen_colors", "random_colors", "color_swap", "grayscale", "intensity_shift", "background_shift"]
+  adversarial:
+    epsilons: [2.0, 5.0, 7.5, 10.0, 12.75, 15.0, 20.0]
+    num_steps: 20
+    alpha: 1.5
+
+ablation:
+  components: ["full", "no_counterfactual", "no_regularization", "no_warmup"]
